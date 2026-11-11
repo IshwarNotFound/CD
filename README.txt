@@ -1,8 +1,8 @@
 HOW TO RUN
 ----------
 C programs:
-    gcc 1_rdp_expression.c -o a
-    ./a
+    gcc 1_rdp_expression.c 
+    ./a.out
 
 LEX programs:
     lex 2_keywords.l          (or: flex 2_keywords.l)
